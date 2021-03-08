@@ -66,4 +66,3 @@
 * [https://rootkitlink.github.io/deliveryfood](rootkitlink.github.io/deliveryfood)
 
 ### English proficiency : Vantage — Upper-Intermediate
-
