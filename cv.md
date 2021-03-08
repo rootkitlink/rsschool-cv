@@ -1,4 +1,4 @@
-# Sergei Goncharov
+# Sergei Goncharov  ![Avatar](https://avatars.githubusercontent.com/u/20544315?s=96&v=4)
 ### Contacts: rootkitlink@gmail.com, Telegram @rootkitlink, https://www.instagram.com/goncharoffserg
 
 #### *I have practical experience in the fields of programming, telecommunications, digital marketing and rehabilitation.I quickly master new technologies in programming and also I am marketing specialist with strong analytical thinking.I have experience of working as: System Administrator, Designer, Digital Marketing, Marketing and Sales, Web developer.Able to work efficiently both individually and in a team.*
@@ -10,7 +10,8 @@
 
 ### Code examples:
 
- ```<section class="top">
+ ```html
+<section class="top">
     <div class="container">
       <div class="top__inner">
         <h1 class="top__inner-title title">
