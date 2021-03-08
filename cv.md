@@ -9,6 +9,7 @@
 * Git, Gulp, VScode, Sublime Text, Figma, Avacode, Sketch, Adobe Photoshop.
 
 ### Code examples:
+
  ```<section class="top">
     <div class="container">
       <div class="top__inner">
@@ -54,7 +55,8 @@
         <a href="#" class="tools__inner-btn">SIGN UP NOW</a>
       </div>
     </div>
-  </section>```
+  </section>
+```
 
 ### Examples of some of my work:
 * https://rootkitlink.github.io/to2rent
