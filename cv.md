@@ -60,10 +60,10 @@
 ```
 
 ### Examples of some of my work:
-* [rootkitlink.github.io/to2rent] : https://rootkitlink.github.io/to2rent
-* https://rootkitlink.github.io/martaup
-* https://rootkitlink.github.io/layout
-* https://rootkitlink.github.io/deliveryfood
+* [rootkitlink.github.io/to2rent](https://rootkitlink.github.io/to2rent)
+* [rootkitlink.github.io/martaup](https://rootkitlink.github.io/martaup)
+* [rootkitlink.github.io/layout](https://rootkitlink.github.io/layout)
+* [rootkitlink.github.io/deliveryfood](https://rootkitlink.github.io/deliveryfood)
 
 ### English proficiency : Vantage — Upper-Intermediate
 
