@@ -1,0 +1,5 @@
+1. Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/stage-1/html-css-git.md
+2. Screenshot: http://ipic.su/img/img7/fs/2021-03-08_145249_rootkitlink.1615208276.png
+   https://rootkitlink.github.io/rsschool-cv/
+3. Done 08.03.2021 / deadline 08.03.2021
+4. Score: 50 / 100
